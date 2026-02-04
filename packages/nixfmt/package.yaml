@@ -10,10 +10,10 @@ categories:
   - Formatter
 
 source:
-  id: pkg:github/FlashOnFire/nixfmt@v1.1.0-static
+  id: pkg:github/NixOS/nixfmt@v1.2.0
   asset:
     - target: linux_x64
-      file: nixfmt-x86_64-linux
+      file: nixfmt
   supported_platforms:
     - linux_x64
 
